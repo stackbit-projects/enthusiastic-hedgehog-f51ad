@@ -1,6 +1,6 @@
 ---
 title: yo
-subtitle: lorem-ipsum
+subtitle: sup
 image_alt: lorem-ipsum
 seo:
   title: ''
